@@ -1,0 +1,228 @@
+
+@font-face {
+    font-family: 'League Script Number One';
+    src: url('webfonts/LeagueScriptNumberOne-webfont.woff'), url('webfonts/LeagueScriptNumberOne-webfont.ttf');
+}
+
+@font-face {
+    font-family: 'Poiret One';
+    src: url('PoiretOne-Regular.ttf');
+}
+
+body {
+    background-color: #F7E8FE;
+}
+                                                            
+hr {
+    border: 0.2em solid #FFCCE1;
+    width: 70%;
+}
+
+#header-hr {
+    border: 0.23em dotted white;
+    width: 50%;
+    margin-bottom: 1.5em;
+}
+
+p {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+p.page3 {
+    font-family: 'Poiret One';
+    width: 60%;
+}
+
+h1 {
+    font-family: 'League Script Number One';
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: black;
+}
+
+p.text {
+    font-family: 'Poiret One';
+    padding: 0.5em;
+    border-style: double;
+    border-color: white;
+    border-width: 0.5em;
+}
+
+a:link, a:visited {
+    color: #EB639B;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: #C7E4FF;
+}
+
+nav {
+    font-family: 'Poiret One';
+    margin-top: 2.5em;
+}
+
+.page1 {
+    height: 60%;
+    width: 60%;
+    border-style: outset;
+    border-color: #FFCCE1;
+    border-width: 0.5em;
+    margin: 1em;
+    margin-bottom: 2em;
+}
+
+.members {
+    width: 60%;
+    height: auto;
+    margin: 2em;
+    border-style: outset;
+    border-color: #FFCCE1;
+    border-width: 0.5em;
+}
+
+#container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#container2 {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#text-page-1 {
+    width: 70%;
+}
+
+nav {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+#container3 {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#container4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img.sub-units {
+    width: 60%;
+    height: auto;
+    margin: 2em;
+    border-style: outset;
+    border-color: #FFCCE1;
+    border-width: 0.5em;
+}
+
+h2.greeting {
+    text-align: center;
+    width: 30%;
+    color: #EB639B;
+    font-size: 1em;
+    border-style: double;
+    border-color: #FFCCE1;
+    border-width: 0.5em;
+    margin: auto;
+    padding: 0.5em;
+
+}
+/* media query */
+
+@media(min-width: 960px) {
+
+    .page1 {
+        height: 25%;
+        width: 25%;
+        border-style: outset;
+        border-color: #FFCCE1;
+        border-width: 0.5em;
+        margin: 1em;
+        margin-bottom: 1.5em;
+    }
+    
+    .members {
+        width: 75%;
+        height: auto;
+        margin: 1.5em;
+        border-style: outset;
+        border-color: #FFCCE1;
+        border-width: 0.5em;
+    }
+
+    .page3 {
+        width: 75%;
+        height: auto;
+    }
+    
+     img.sub-units {
+        width: 100%;
+        height: auto;
+        margin: 2em;
+        border-style: outset;
+        border-color: #FFCCE1;
+        border-width: 0.5em;
+    }
+
+    #container1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    #container2 {
+        display: grid; 
+        grid-template-columns: 10% 35%; 
+        justify-content: center;
+    }
+
+    #container3 {
+        margin-right: auto;
+        margin-left: auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    #container4 {
+        display: grid;
+        grid-template-columns: 30% 20%;
+        justify-content: space-evenly;
+    }
+
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    nav > a {
+        margin-right: 1em;
+    }
+}
