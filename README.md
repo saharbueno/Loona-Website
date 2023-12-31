@@ -10,7 +10,7 @@
 This is an immersive website I created that is dedicated to delivering the history of the K-pop girl group LOONA, employing HTML, CSS, and JavaScript. Meticulously designed for an aesthetically pleasing learning experience, the site offers responsive design features and interactive elements, enhancing user engagement and enjoyment.
 
 ## Visual Sample
-![Imgur](https://i.imgur.com/4v7VWCq.png){:width="600px" height="250px"}
+![Imgur](https://i.imgur.com/4v7VWCq.png)
 
 
-<img src="https://i.imgur.com/4v7VWCq.png" alt="Alt Text" width="600" height="250">
+<img src="https://i.imgur.com/4v7VWCq.png" alt="Alt Text" width="600" height="353">
