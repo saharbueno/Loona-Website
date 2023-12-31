@@ -11,3 +11,6 @@ This is an immersive website I created that is dedicated to delivering the histo
 
 ## Visual Sample
 ![Imgur](https://i.imgur.com/4v7VWCq.png){:width="600px" height="250px"}
+
+
+<img src="https://i.imgur.com/4v7VWCq.png" alt="Alt Text" width="600" height="250">
