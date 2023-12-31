@@ -12,10 +12,8 @@ This is an immersive website I created that is dedicated to delivering the histo
 ## Visual Sample
 ![Imgur](https://i.imgur.com/4v7VWCq.png)
 ![Imgur](https://i.imgur.com/AmLWqlv.png)
-<p align="center">
-![Example GIF](https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif)
-</p>
 
+*Visual features added w/ JavaScript*
 <p align="center">
-  <img src="https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif" alt="Alt Text">
+  <img src="https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif" alt="Loona Website Functionality">
 </p>
