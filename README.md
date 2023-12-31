@@ -31,5 +31,9 @@ This was my first attempt at writing my own Javscript that reacts to user intera
 </p>
 
 <p align="center">
-  <i>˚ʚ♡ɞ˚ Thanks for visiting my site ˚ʚ♡ɞ˚</i>
+  <i>˚ʚ♡ɞ˚ Thanks for visiting my first ever repository! ˚ʚ♡ɞ˚</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2jvTUpp8WO1pu/giphy.gif" alt="Happy">
 </p>
