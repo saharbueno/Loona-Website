@@ -14,7 +14,7 @@ This is an immersive website I created that is dedicated to delivering the histo
 ![Imgur](https://i.imgur.com/AmLWqlv.png)
 
 <p align="center">
-  *Visual features added with JavaScript*
+  <i>Visual features added with JavaScript</i>
 </p>
 
 <p align="center">
