@@ -15,3 +15,7 @@ This is an immersive website I created that is dedicated to delivering the histo
 <p align="center">
 ![Example GIF](https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif)
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif" alt="Alt Text">
+</p>
