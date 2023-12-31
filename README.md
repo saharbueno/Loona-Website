@@ -12,7 +12,6 @@ This is an immersive website I created that is dedicated to delivering the histo
 ## Visual Sample
 ![Imgur](https://i.imgur.com/4v7VWCq.png)
 ![Imgur](https://i.imgur.com/AmLWqlvt.png)
-![Loona Website Functionality](http://loonaWebsite)
 
 ![Example GIF](https://media.giphy.com/media/GbrYSdVwwbqDXybmjS/giphy.gif)
 
