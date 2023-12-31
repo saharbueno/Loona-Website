@@ -25,6 +25,11 @@ This is an immersive website I created that is dedicated to delivering the histo
 
 This was my first attempt at writing my own Javscript that reacts to user interaction. I used built-in functions such as addEventListener and created my own functions in order to create visually appealing effects such as the background color changing when a user hovers their mouse over a Loona member's picture in the Members page. I also challenged myself to use CSS media queries in order to create a responsive website that remains neat and functional on desktop, tablet, and phone resolutions. Overall, I had a fun time designing this site and getting over the challenges of responsive design!
 
+
 <p align="center">
-  <i>Thanks for visiting my site ˚ʚ♡ɞ˚</i>
+  <i>Visit my site <a href="https://i6.cims.nyu.edu/~sb8249/loona/index.html">HERE</a></i>
+</p>
+
+<p align="center">
+  <i>˚ʚ♡ɞ˚ Thanks for visiting my site ˚ʚ♡ɞ˚</i>
 </p>
